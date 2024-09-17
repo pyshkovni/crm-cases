@@ -2,3 +2,4 @@
 
 * [Игра "Сквозные бизнес-процессы"](/e2e_processes/README.md)
 * [Настройка  продаж в Bitrix24](crm_funnel/README.md)
+* [Процесс создания веб-сайта](landing_page/README.md)
